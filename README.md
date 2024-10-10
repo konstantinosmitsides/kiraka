@@ -2,11 +2,6 @@
 
 Welcome to Kiraka.ai! Inspired by the Arabic word for reading, *[qirā'ah]*, our platform is dedicated to enhancing your reading experience through innovative, technology-driven solutions. Initiated as a university project at Imperial College London, Kiraka.ai's main feature—***FlashMode Adaptive***—leverages eye-tracking technology and lexical analysis to tailor the reading experience to your pace and comprehension needs.
 
-Kiraka.ai is currently hosted at: https://srp.doc.ic.ac.uk
-
-> **Important:** To ensure our eye-tracking features work properly, please access our website using ***Google Chrome*** on a laptop or desktop equipped with a webcam.
-
-
 ## Table of Contents
 
 - [Project Overview](#project-overview)
@@ -169,11 +164,6 @@ Kiraka.ai provides an analytics page to help users track their reading (average 
 
 ## Contact Us
 For more information or if you have any questions, please contact us at: srp.doc.ic.ac.uk@gmail.com
-
-
-## Terms and Conditions
-For more information about our terms and conditions, please visit the following page: https://srp.doc.ic.ac.uk/terms
-
 
 ## Authors
 - *Konstantinos Mitsides* **(konstantinos.mistides23@imperial.ac.uk)**
