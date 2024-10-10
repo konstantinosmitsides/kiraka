@@ -48,7 +48,7 @@ Kiraka.ai is designed to explore the potential of speed reading and its impact o
 
 1. Clone the repository:
     ```bash
-    git clone https://gitlab.doc.ic.ac.uk/g237007906/kiraka.git
+    git clone https://github.com/konstantinosmitsides/kiraka.git
     ```
 2. Our backend uses Flask, so we recommend downloading Python 3.10 and creating a virtual environment.
 
@@ -132,12 +132,12 @@ Kiraka.ai is designed to explore the potential of speed reading and its impact o
 In DocMode, you have the freedom to see the whole text and read it at your own pace. We also have some extra features you may find useful. These are controlled via the control panel above the text.
 
 Features include:
-- $\color{blue}{Pointer}$: Enhance your reading with a karaoke-style pointer. Customise the pointer by adjusting its length and colour for optimal tracking, and set its speed to match your preferred reading pace WPM.
-- $\color{blue}{HyperBold}$: Bold the beginning of words to create artificial fixation points with varying degrees. This feature helps in improving reading speed by guiding your visual focus.
-- $\color{blue}{Others}$:
-    - $\color{darkblue}{Dark\ Mode}$: Switch to Dark Mode for a reading experience in low-light conditions.
-    - $\color{darkblue}{Focused\ Reading}$: Choose to only display the pointer, hiding the rest of the text. This helps minimise regression (unnecessary re-reading), enhancing concentration.
-    - $\color{darkblue}{Font\ Customisation}$: Freely adjust the font size to suit your visual preference, ensuring comfort and readability.
+- **Pointer:** Enhance your reading with a karaoke-style pointer. Customise the pointer by adjusting its length and colour for optimal tracking, and set its speed to match your preferred reading pace WPM.
+- **HyperBold:** Bold the beginning of words to create artificial fixation points with varying degrees. This feature helps in improving reading speed by guiding your visual focus.
+- **Others:**
+    - **Dark Mode:** Switch to Dark Mode for a reading experience in low-light conditions.
+    - **Focused Reading:** Choose to only display the pointer, hiding the rest of the text. This helps minimise regression (unnecessary re-reading), enhancing concentration.
+    - **Font Customisation:** Freely adjust the font size to suit your visual preference, ensuring comfort and readability.
 
 
 ### FlashMode
@@ -148,18 +148,18 @@ Explore two configurations: **Static** and **Adaptive**.
 - **Adaptive (Recommended)**: Integrates WebGazer's eye-tracking to automatically adjust your WPM, encouraging faster reading. Manual WPM adjustments are still available.
 
 \
-$\color{red}{Adaptive\ Complexity\ Adjustment}$:
+**Adaptive Complexity Adjustment:**
 \
 FlashMode Adaptive not only adapts to your reading speed through your gaze but also adjusts based on the lexical complexity of each text chunk. Leveraging a pre-trained Large Language Model (LLM), each chunk is scored for complexity. This score is then used to adjust the WPM for subsequent chunks, ensuring that the reading challenge is optimised for your comprehension and speed. This dynamic adjustment process happens after each chunk is displayed, allowing for a seamless reading experience.
 
 \
-$\color{red}{Difficulty\ Levels}$:
+**Difficulty Levels:**
 \
 FlashMode Adaptive offers three levels of difficulty, each designed to cater to different user proficiencies:
 
-- $\color{darkred}{Beginner}$: Ideal for those new to speed reading.
-- $\color{darkred}{Intermediate}$: For readers with some experience in dynamic reading environments.
-- $\color{darkred}{Expert}$: For those who seek to challenge their reading capabilities to the limit.
+- **Beginner:** Ideal for those new to speed reading.
+- **Intermediate:** For readers with some experience in dynamic reading environments.
+- **Expert:** For those who seek to challenge their reading capabilities to the limit.
 
 ### AI Quiz Generation
 After your reading sessions, AI-generated quizzes designed to test comprehension will be presented. These quizzes are crucial for addressing the trade-offs between speed and comprehension commonly seen with traditional speed reading techniques. Currently being refined for improved question generation, this feature also accommodates ***user-uploaded texts***, reinforcing our commitment to user-centric learning experiences.
@@ -176,8 +176,8 @@ For more information about our terms and conditions, please visit the following 
 
 
 ## Authors
-- *Fadi Zahar* **(fadi.zahar23@imperial.ac.uk)**
 - *Konstantinos Mitsides* **(konstantinos.mistides23@imperial.ac.uk)**
+- *Fadi Zahar* **(fadi.zahar23@imperial.ac.uk)**
 - *Kyoya Higashino* **(kyoya.higashino23@imperial.ac.uk)**
 - *Matis Bodaghi* **(matis.bodaghi23@imperial.ac.uk)**
 - *Jack Hau* **(jack.hau23@imperial.ac.uk)**
